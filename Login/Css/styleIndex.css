@@ -6,7 +6,9 @@ body {
     padding-top: 3rem;
     padding-bottom: 3rem;
     color: rgb(var(--bs-tertiary-color-rgb));
+    background-color: #A6445E ;
   }
+  
   
   
   /* CUSTOMIZE THE CAROUSEL
@@ -32,7 +34,9 @@ body {
   -------------------------------------------------- */
   
   /* Center align the text within the three columns below the carousel */
+  
   .marketing .col-lg-4 {
+    
     margin-bottom: 1.5rem;
     text-align: center;
   }
@@ -46,9 +50,12 @@ body {
   
   /* Featurettes
   ------------------------- */
-  
+  .conten{
+    background-color: #F2F2F2;
+  }
+
   .featurette-divider {
-    margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+    margin: 0.70rem 0; /* Space out the Bootstrap <hr> more */
   }
   
   /* Thin out the marketing headings */
